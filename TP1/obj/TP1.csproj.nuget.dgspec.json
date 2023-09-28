@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/hanip/Documents/Prog_web/dotnet/TP1/TP1.csproj": {}
+  },
+  "projects": {
+    "/home/hanip/Documents/Prog_web/dotnet/TP1/TP1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/hanip/Documents/Prog_web/dotnet/TP1/TP1.csproj",
+        "projectName": "TP1",
+        "projectPath": "/home/hanip/Documents/Prog_web/dotnet/TP1/TP1.csproj",
+        "packagesPath": "/home/hanip/.nuget/packages/",
+        "outputPath": "/home/hanip/Documents/Prog_web/dotnet/TP1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/hanip/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/hanip/Documents/Prog_web/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
